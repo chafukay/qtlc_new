@@ -69,13 +69,13 @@ if (!function_exists('cs_theme_setup')) {
         add_theme_support("title-tag");
         /* Add custom actions. */
         global $pagenow;
-		
+
 		add_action('init', 'cs_activation_data');
         if (is_admin() && isset($_GET['activated']) && $pagenow == 'themes.php') {
             $theme = wp_get_theme();
             if (get_option('cs_theme_name') != $theme['Name']) {
                 add_action('admin_head', 'cs_activate_widget');
-                
+
             }
             wp_redirect(admin_url('admin.php?page=cs_demo_importer'));
         }
@@ -326,9 +326,9 @@ if (!function_exists('__CS')) {
         }
         catch(Exception $e)
         {
-            
+
         }
-        
+
     }
 
 }
@@ -912,7 +912,7 @@ if (!function_exists('cs_activation_data')) {
 
     function cs_activation_data() {
         global $wpdb;
-		
+
 		if( ! get_option("cs_theme_name") ) {
 			$wpdb->query("
 				CREATE TABLE IF NOT EXISTS `" . $wpdb->prefix . "cs_newsletter` (
@@ -940,7 +940,7 @@ if (!function_exists('cs_activation_data')) {
 			  }
 			  else $theme_mod_val['top-menu'] = $term_exists['term_id'];
 			  set_theme_mod( 'nav_menu_locations', $theme_mod_val ); */
-	
+
 			//$gfonts = json_decode(@file_get_contents('https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyAmnx95iAIwGwfUBnX6D645dQPyMyRGGpc'));
 			//if($gfonts)	update_option('cs_google_fonts', $gfonts);
 			// adding tempalte ready made start
@@ -970,7 +970,7 @@ if (!function_exists('cs_activation_data')) {
 			update_option("cs_gs_others", '<?xml version="1.0"?><cs_gs_others><responsive>on</responsive><breadcrumb>on</breadcrumb><theme_rtl/><color_picker/><translation_switcher/></cs_gs_others>');
 			$theme = wp_get_theme();
 			update_option("cs_theme_version", $theme['Version']);
-	
+
 			update_option("cs_theme_name", $theme['Name']);
 		}
         // adding general settings end
@@ -1062,6 +1062,7 @@ if (!function_exists('cs_front_scripts_enqueue')) :
             wp_enqueue_style('bootstrap_css', get_template_directory_uri() . '/css/bootstrap.css');
             wp_enqueue_style('base_css', get_template_directory_uri() . '/css/base.css');
             wp_enqueue_style('layout_css', get_template_directory_uri() . '/css/layout.css');
+            wp_enqueue_style( 'custom_css', get_template_directory_uri() . '/css/custom.css',false,'1.1','all');
 
             if ($theme_rtl == "on") {
                 wp_enqueue_style('rtl_css', get_template_directory_uri() . '/css/rtl.css');
@@ -1271,7 +1272,7 @@ if (!function_exists('PixFill_comment')) :
                         </div>
                         <div class="desc">
                             <div class="desc-in-border">
-                                <div class="desc-in"> 
+                                <div class="desc-in">
                                     <div class="title">
                                         <h5><?php printf(__('%s', 'PixFill'), sprintf('<a class="colr">%s</a>', get_comment_author_link())); ?></h5>
                                         <p>
@@ -1285,10 +1286,10 @@ if (!function_exists('PixFill_comment')) :
                                     <?php if ($comment->comment_approved == '0') : ?>
                                         <div class="comment-awaiting-moderation backcolr"><?php _e('Your comment is awaiting moderation.', CSDOMAIN); ?></div>
                                         <div class="clear"></div>
-                                    <?php endif; ?>                          
+                                    <?php endif; ?>
                                     <?php comment_text(); ?>
                                     <?php comment_reply_link(array_merge($args, array('depth' => $depth, 'max_depth' => $args['max_depth']))); ?>
-                                    <div class="clear"></div>                    
+                                    <div class="clear"></div>
                                 </div>
                             </div>
                         </div>

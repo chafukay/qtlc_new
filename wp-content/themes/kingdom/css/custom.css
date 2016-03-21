@@ -1,0 +1,41 @@
+/*
+CUSTOM.CSS
+All custom css or additional css goes in here instead of the main style.css file
+*/
+
+#header .eleven h2 strong {
+    color: #FFF !important;
+    font-weight: normal;
+    font-size: 14px;
+    position: relative;
+    top: -14px;
+}
+
+.headlines h4 {
+    padding: 0px !important;
+    margin-right: 15px;
+}
+
+.bordercolr, .bordercolrover:hover, .box, .page_box, blockquote .block, .tabs-widget .tab_menu_container a {
+    border-color: none !important;
+}
+
+.page_box {
+    float: left;
+    background: #fff;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 6px #ccc;
+    border-top: none;
+}
+
+.heading {
+    width: 100%;
+    color: #002c42;
+    text-transform: uppercase;
+    padding: 10px 20px 13px 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: none !important;
+    border-bottom: solid 2px #e7e7e7 !important;
+}
