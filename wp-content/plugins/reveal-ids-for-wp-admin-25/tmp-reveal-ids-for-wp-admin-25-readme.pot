@@ -1,0 +1,354 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Reveal IDs"
+msgstr ""
+
+#. Short description.
+msgid "What this plugin does is to reveal most removed IDs on admin pages, as it was in versions prior to 2.5."
+msgstr ""
+
+#. Screenshot description.
+msgid "The added ID column"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Options Page"
+msgstr ""
+
+#. Found in description list item, changelog list item.
+msgid "Sortable columns for WP 3.1 or higher"
+msgstr ""
+
+#. Found in description list item.
+msgid "English"
+msgstr ""
+
+#. Found in description list item.
+msgid "German (de_DE) (Thanks to me ;-))"
+msgstr ""
+
+#. Found in description list item.
+msgid "Brazilian Portuguese (pt_BR) (Thanks for contributing brazilian portuguese language goes to <a href=\"http://www.maujor.com\">Maurício Samy Silva</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian (it_IT) (Thanks for contributing italian language goes to Gianluca Urgese)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (es_ES) (Thanks for contributing spanish language goes to <a href=\"http://www.es-xchange.com\">Karin Sequen</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (ru_RU) (Thanks for contributing russian language goes to <a href=\"http://grugl.me\">Dimitry German</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Belorussian (by_BY) (Thanks for contributing belorussian language goes to <a href=\"http://www.fatcow.com\">FatCow</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch (nl_NL) (Thanks for contributing dutch language goes to <a href=\"http://wpwebshop.com/premium-wordpress-plugins/\">wpwebshop.com</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "European Portuguese (pt_PT) (Thanks for contributing european portuguese language goes to <a href=\"http://thepatientcapacitor.com/\">PL Monteiro</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish (pl_PL) (Thanks for contributing polish language goes to Simivar)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Romanian (ro_RO) (Thanks for contributing romanian language goes to <a href=\"http://www.jibo.ro\">Anunturi Jibo</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Georgian (ge_KA) (Thanks for contributing georgian language goes to <a href=\"http://www.onlinecasinobluebook.com/\">Online Casino Bluebook</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Swedish (sv_SE) (Thanks for contributing swedish language goes to <a href=\"http://fjellner.com/\">Tor-Bjorn Fjellner</a>)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With WordPress 2.5 being released, the IDs on all admin pages have been removed as it is. Propably due to the fact that the common user dont need them. However, for advanced WordPress Users/ developers those IDs were quite interesting for some plugins or template tags."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "What this plugin does is to reveal most removed entry IDs on admin pages, showing the entry IDs, as it was in versions prior to 2.5"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Features:</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://plus.google.com/118074611982254715031\" title=\"Developer on Google+\">Developer on Google+</a> | <a href=\"http://twitter.com/wpseek\" title=\"Developer on Twitter\">Developer on Twitter</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://www.patreon.com/oliver_schloebe\" title=\"Become A Patron, Support The Developer.\">Become A Patron, Support The Developer.</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Included languages:</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Looking for more WordPress plugins? Visit <a href=\"http://www.schloebe.de/portfolio/\">www.schloebe.de/portfolio/</a></strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin and unzip it."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the folder reveal-ids-for-wp-admin-25/ to your /wp-content/plugins/ folder."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin from your WordPress admin panel."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Installation finished."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Backend cleanup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added uninstall.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue that caused a redirection loop in some environments"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a 'Redefining already defined constructor' bug that occured on several configurations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prepwork for Language Packs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased width and added word-wrap for ID columns (for long IDs)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Complete Code rewrite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Full wupport for custom post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Full support for custom taxonomies"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin now requires at least 2.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Readme.txt updated to be more compliant with the readme.txt standard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved screenshots off the package to the assets/ folder"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed capability options. If you don't want to see IDs on a particular panel, just remove them via Screen Options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Issues with SSL fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Maintenance Update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed ID columns so that other plugins' custom columns won't be empty anymore"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added georgian localization (Thanks to Kasia!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added romanian localization (Thanks to Anunturi Jibo!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "FIXED: German localization wasn't loading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added polish localization (Thanks to Simivar!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added european portuguese localization (Thanks to PL Monteiro!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added dutch localization (Thanks to wpwebshop.com!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code cleanup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Category IDs show up in WP 3.0 now"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added IDs for tag management page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Using new hooks to add ID columns where javascript was used before (due to missing hooks) in WP 2.8 and above"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue with capabilites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for Fluency Admin Theme plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for Changelog readme.txt standard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added IDs for comments page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor code changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added IDs for link categories page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that occured on WP 2.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Link IDs now show up again"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with category and user IDs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved compatibility with WP 2.7 (UI)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved compatibility with WP 2.7"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed include mechanism"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved activation process"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added italian localization (Thanks to Gianluca Urgese!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed incompatibility with Gengo plugin (Thanks to dragunoff!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some changes to the options page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added IDs for users management page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More reliable way of displaying category IDs (removed alpha status)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added brazilian portuguese localization (Thanks to Maurício Samy Silva!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some code cleanup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small cosmetic change"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Yeah, really. Nothing more."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A lot cleaner code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor language fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fix in category management"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error that occured on older blogs (2.1.*) that have recently been updated to WP 2.5 (Thanks to Lars-Tilo Handke for testing!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error that occasionally damaged category creation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added hint to use the 'Show category IDs' option at your own risk since this seems to not work properly at the moment"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More IDs to reveal"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rights management (Who's allowed to see IDs...)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin released"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "None."
+msgstr ""

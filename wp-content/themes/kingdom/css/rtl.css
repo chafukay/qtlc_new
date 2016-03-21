@@ -1,0 +1,245 @@
+body { direction: rtl; }
+.left,
+.social-widget ul li,
+.follow-tweet,
+#page-title h1,
+#bread-crumb ul li,
+.headlines h4,
+.sliderwrapper,
+.cat-select ul li,
+.tags > p { float: right !important; }
+.right,
+#footer .copyrights a.gotop,
+#page-title .page-share,
+.paginationn,
+.paginationn a.prev,
+.post-extras .tags a,
+#comments ul ul li { float: left !important; }
+.ddsmoothmenu,
+#comments ul li .desc .desc-in .title h5,
+.post-extras .tags,
+#respond form label,
+#respond form textarea { float: right; }
+#header .search {
+	float: left;
+	margin-left: 10px;
+}
+.ddsmoothmenu ul li { float: right; }
+.hasCountdown {
+	float: right !important;
+	width: 100%;
+}
+#timer {
+	float: right !important;
+	width: 100% !important;
+}
+.timer_numbers { float: left !important; }
+.timer_labels { float: right !important; }
+.top-links { float: left; }
+#header .eleven h2 { text-align: left; }
+.top-links li { float: right; }
+.tab-list .widget_archive li,
+.box.widget_pages ul li {
+	background: url("images/left_arrow_rtl.png") no-repeat right top 7px;
+	padding-right: 15px;
+}
+#footer .widget_archive li,
+.widget_archive ul li {
+	background: url("images/left_arrow_rtl.png") no-repeat right top 7px;
+	padding-right: 15px;
+}
+.box .sec-bot-bar a.advance-search { float: right; }
+#footer .widget_recent_entries li,
+#footer .widget_pages ul li,
+.widget_meta ul li,
+.recentcomments {
+	background: url("images/left_arrow_white_rtl.png") no-repeat right top 7px;
+	padding: 0 10px 0 0px;
+	float: right;
+}
+#footer .copyrights p.poweredby img {
+	float: right;
+	margin: -2px 10px 0 5px;
+	width: auto;
+}
+#footer .copyrights p { float: right; }
+.top-links li:last-child { padding: 0px; }
+.widget_categories ul {
+	padding: 0 20px 10px 0px;
+	float: right;
+}
+.widget_categories ul li.cat-item a {
+	color: #424242;
+	float: right;
+	line-height: 19px;
+	padding: 0 0 0 10px;
+}
+.col1 .widget_categories ul li,
+#bread-crumb ul li {
+	background: url("images/left_arrow_rtl.png") no-repeat right top 5px;
+	float: right;
+	padding-right: 15px;
+}
+ul.date-list li .date,
+.current-item .date { right: 10px; }
+.current-item .eve-desc {
+	border-right: 1px solid #DCDCDC;
+	border-left: none;
+	float: right;
+	margin-right: 45px;
+	padding-right: 10px;
+}
+.follow-tweet {
+	background: url("images/twitter-icon.png") no-repeat right 1px;
+	padding: 0 20px 20px 0;
+	margin-right: 20px;
+}
+#footer .follow-tweet {
+	background: url("images/twitter-icon.png") no-repeat right 1px;
+	padding: 0 20px 20px 0;
+}
+ul.date-list li .eve-desc {
+	border-right: 1px solid #DCDCDC;
+	border-left: none;
+	float: right;
+	margin-right: 57px;
+	padding-right: 10px;
+}
+.widget_archive select { margin: 12px 12px 0 0; }
+#bread-crumb ul li { padding: 0 15px 0 0px; }
+#bread-crumb ul li:first-child { padding: 0 0 0 15px; }
+.box.widget_recent_entries ul li,
+.box.widget_recent_comments ul li {
+	background: url("images/left_arrow_rtl.png") no-repeat right top 7px;
+	padding: 0 10px 0 0px;
+	float: right;
+}
+.box.widget_archive ul { padding: 0 20px 0 0; }
+#header .search ul {
+	background: url(images/search-bg_rtl.png) no-repeat;
+	left: -12px;
+	right: auto;
+}
+.contentdiv p span {
+	padding: 0 10px;
+	float: right;
+}
+.paginationn a.prev { margin: 0 3px 0 0; }
+.headlines h4 { padding: 0 0 0 10px; }
+.princple-msg .thumb h4 {
+	right: 0px;
+	left: auto;
+}
+.box.widget_meta ul li {
+	background: url("images/left_arrow_rtl.png") no-repeat right top 7px;
+	width: 100%;
+	padding: 0 15px 0 0;
+}
+.box.widget_nav_menu ul li,
+.columns .widget_rss ul li {
+	background: url("images/left_arrow_rtl.png") no-repeat right top 7px;
+	padding: 0 15px 0 0;
+}
+#tab-timeline .rod {
+	right: 6px;
+	left: auto;
+}
+ul.timeline li {
+	padding: 0 35px 0 0;
+	background: url("images/bullets-events_rtl.png") no-repeat right center;
+}
+ul.timeline li:hover .event-list {
+	border-width: 1px 5px 1px 1px;
+	border-style: solid;
+	border-color: #B8B8B8;
+	-moz-border-top-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-bottom-colors: none;
+}
+ul.timeline li:hover { background: url("images/bullets-events-hover_rtl.png") no-repeat right center; }
+ul.timeline li .event-list {
+	border-width: 1px 5px 1px 1px;
+	border-style: solid;
+	border-color: #E7E7E7;
+	-moz-border-top-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-bottom-colors: none;
+}
+.post .post-opts p {
+	float: right;
+	padding: 0 10px 0 18px;
+}
+.post .post-opts p.comment-txt,
+.post .post-opts p.date { padding: 0 20px 0 15px }
+.table-sec .table-cont li.c-name,
+.table-sec .table-head li.c-name,
+.table-sec .table-head li.programs,
+.table-sec .table-head li.eligibility,
+.table-sec .table-cont li.programs,
+.table-sec .table-head li.id { padding: 10px 10px 10px 0; }
+.post .post-opts p.author { padding: 0 0 0 10px; }
+#comments ul li .thumb {
+	right: 0px;
+	left: auto;
+}
+#comments ul li .desc {
+	float: left;
+	padding: 0 65px 0 0;
+}
+#comments ul li .desc .desc-in .title p {
+	float: right;
+	padding: 1px 10px 0 0;
+}
+.form-submit input[type="submit"] { margin-right: 140px !important; }
+.quick-enquiry ul li a.refresh-captcha {
+	float: right;
+	background: url("images/refresh.png") no-repeat right center;
+	padding: 0 18px 0 0px
+}
+.quick-enquiry ul li img {
+	float: right;
+	margin: 0 0px 20px 20px;
+}
+.columns .page_box { float: left !important; }
+blockquote {
+	background: url("images/comma_rtl.png") no-repeat;
+	background-position: right top;
+	padding: 0 60px 0 0px !important;
+}
+.nav-tabs li,
+.frm_error,
+.pagination ul,
+.pagination ul li { float: right; }
+.pagination h5 {
+	padding: 1px 0 0 10px;
+	float: right;
+}
+.post-extras .post-share h5 {
+	padding-left: 5px;
+	float: left;
+}
+#respond form textarea,
+#respond form input[type="text"] { width: 85%; }
+.alert .close {
+	float: left;
+	left: -12px;
+	right: auto;
+}
+.widget_archive ul li {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	float: right;
+	width: 100%;
+	text-align: left;
+}
+.widget_archive ul li a { float: right; }
+ @media only screen and (max-width: 767px) {
+.headlines h4 { float: left !important; }
+}
+.ddsmoothmenu ul li ul{
+	right:0;
+	left:auto;
+}

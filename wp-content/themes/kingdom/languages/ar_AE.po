@@ -1,0 +1,866 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kingdom College Home base v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-22 07:31:54+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:59
+#: header.php:426
+#@ Kingdom
+msgid "Author"
+msgstr ""
+
+#: archive.php:59
+#: archive.php:61
+#: archive.php:63
+#: header.php:426
+#: header.php:428
+#: header.php:430
+#@ Kingdom
+msgid "Archives"
+msgstr ""
+
+#: archive.php:61
+#: header.php:428
+#@ Kingdom
+msgid "Tags"
+msgstr ""
+
+#: archive.php:63
+#: archive.php:107
+#: header.php:430
+#@ Kingdom
+msgid "Categories"
+msgstr ""
+
+#: archive.php:65
+#: header.php:432
+#, php-format
+#@ Kingdom
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:67
+#: header.php:434
+#, php-format
+#@ Kingdom
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:67
+#: header.php:434
+#@ Kingdom
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:69
+#: header.php:436
+#, php-format
+#@ Kingdom
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:69
+#: header.php:436
+#@ Kingdom
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:71
+#@ Kingdom
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:100
+#, php-format
+#@ Kingdom
+msgid "By: %s"
+msgstr ""
+
+#: archive.php:103
+#: comments.php:52
+#@ Kingdom
+msgid "Comments"
+msgstr ""
+
+#: archive.php:110
+#, php-format
+#@ Kingdom
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:3
+#@ Kingdom
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:7
+#, php-format
+#@ Kingdom
+msgid "Comments %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: comments.php:10
+#: comments.php:21
+#@ Kingdom
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:11
+#: comments.php:22
+#@ Kingdom
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:35
+#@ Kingdom
+msgid "Name"
+msgstr ""
+
+#: comments.php:43
+#@ Kingdom
+msgid "Email"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+#@ default
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:58
+#, php-format
+#@ default
+msgid ""
+"Logged in as <a href=\"%s\">%s</a>. \n"
+"\t\t<a title=\"Log out of this account\" href=\"%s\">Log out?</a></p>"
+msgstr ""
+
+#: comments.php:61
+#@ Kingdom
+msgid "Your email is <em>never</em> published nor shared."
+msgstr ""
+
+#: comments.php:62
+#@ default
+msgid " Required fields are marked <span class=\"required\">*</span>"
+msgstr ""
+
+#: comments.php:66
+#@ Kingdom
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+#@ Kingdom
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:68
+#@ Kingdom
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:69
+#@ Kingdom
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:74
+#@ Kingdom
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:76
+#@ default
+msgid "Submit"
+msgstr ""
+
+#: functions.php:164
+#@ Kingdom
+msgid "&lt; Prev"
+msgstr ""
+
+#: functions.php:175
+#@ Kingdom
+msgid "Next &gt;"
+msgstr ""
+
+#: functions.php:873
+#@ Kingdom
+msgid "Home Page Left"
+msgstr ""
+
+#: functions.php:883
+#@ Kingdom
+msgid "Home Page Center"
+msgstr ""
+
+#: functions.php:893
+#@ Kingdom
+msgid "Home Page Right"
+msgstr ""
+
+#: functions.php:904
+#@ Kingdom
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:1046
+#@ Kingdom
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:1047
+#@ Kingdom
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:1110
+#, php-format
+#@ PixFill
+msgid "%s"
+msgstr ""
+
+#. translators: 1: date, 2: time 
+#: functions.php:1114
+#, php-format
+#@ PixFill
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1115
+#: functions.php:1136
+#@ Kingdom
+#@ PixFill
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:1119
+#@ Kingdom
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1136
+#@ PixFill
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1157
+#, php-format
+#@ Kingdom
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:1159
+#, php-format
+#@ Kingdom
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:1161
+#, php-format
+#@ Kingdom
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:1200
+#@ videoeye
+msgid "No results found."
+msgstr ""
+
+#: functions.php:1205
+#, php-format
+#@ videoeye
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:1207
+#@ videoeye
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: functions.php:1210
+#@ videoeye
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: functions.php:1284
+#@ wordpress-importer
+msgid "Error."
+msgstr ""
+
+#: functions.php:1288
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: functions.php:1289
+#@ wordpress-importer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: functions.php:1382
+#: include/class-tgm-plugin-activation.php:164
+#@ Kingdom
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1383
+#: include/class-tgm-plugin-activation.php:165
+#@ Kingdom
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1384
+#: include/class-tgm-plugin-activation.php:166
+#, php-format
+#@ Kingdom
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1385
+#@ Kingdom
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1386
+#: include/class-tgm-plugin-activation.php:168
+#, php-format
+#@ Kingdom
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1387
+#: include/class-tgm-plugin-activation.php:169
+#, php-format
+#@ Kingdom
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1388
+#: include/class-tgm-plugin-activation.php:170
+#, php-format
+#@ Kingdom
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1389
+#: include/class-tgm-plugin-activation.php:171
+#, php-format
+#@ Kingdom
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1390
+#: include/class-tgm-plugin-activation.php:172
+#, php-format
+#@ Kingdom
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1391
+#: include/class-tgm-plugin-activation.php:173
+#, php-format
+#@ Kingdom
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1392
+#: include/class-tgm-plugin-activation.php:174
+#, php-format
+#@ Kingdom
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1393
+#: include/class-tgm-plugin-activation.php:175
+#, php-format
+#@ Kingdom
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1394
+#: include/class-tgm-plugin-activation.php:176
+#@ Kingdom
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1395
+#: include/class-tgm-plugin-activation.php:177
+#@ Kingdom
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1396
+#: include/class-tgm-plugin-activation.php:178
+#: include/class-tgm-plugin-activation.php:490
+#@ Kingdom
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1397
+#: include/class-tgm-plugin-activation.php:179
+#: include/class-tgm-plugin-activation.php:1846
+#@ Kingdom
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:1398
+#, php-format
+#@ Kingdom
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:104
+#, php-format
+#@ Kingdom
+msgid "Page %s"
+msgstr ""
+
+#: header.php:291
+#: header.php:298
+#: header.php:299
+#: header.php:300
+#@ Kingdom
+msgid "Search for:"
+msgstr ""
+
+#: header.php:302
+#@ Kingdom
+msgid "Search"
+msgstr ""
+
+#: include/album.php:49
+#@ mytheme
+msgid "Manage Courses"
+msgstr ""
+
+#: include/album.php:50
+#: include/album.php:51
+#@ Add New
+#@ mytheme
+msgid "Add New Course"
+msgstr ""
+
+#: include/album.php:52
+#@ mytheme
+msgid "Edit Course"
+msgstr ""
+
+#: include/album.php:53
+#@ mytheme
+msgid "New Course Item"
+msgstr ""
+
+#: include/album.php:54
+#@ mytheme
+msgid "View Course Item"
+msgstr ""
+
+#: include/album.php:55
+#@ mytheme
+msgid "Search Course"
+msgstr ""
+
+#: include/album.php:56
+#@ mytheme
+msgid "Nothing found"
+msgstr ""
+
+#: include/album.php:57
+#@ mytheme
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/album.php:76
+#: include/album.php:81
+#@ mytheme
+msgid "Course Categories"
+msgstr ""
+
+#: include/album.php:77
+#@ mytheme
+msgid "Search Course Categories"
+msgstr ""
+
+#: include/album.php:78
+#@ mytheme
+msgid "Edit Course Category"
+msgstr ""
+
+#: include/album.php:79
+#@ mytheme
+msgid "Update Course Category"
+msgstr ""
+
+#: include/album.php:80
+#@ mytheme
+msgid "Add New Course Category"
+msgstr ""
+
+#: include/album.php:94
+#: include/album.php:108
+#@ mytheme
+msgid "Course Tags"
+msgstr ""
+
+#: include/album.php:95
+#@ mytheme
+msgid "course-tag"
+msgstr ""
+
+#: include/album.php:96
+#@ mytheme
+msgid "Search Tags"
+msgstr ""
+
+#: include/album.php:97
+#@ mytheme
+msgid "Popular Tags"
+msgstr ""
+
+#: include/album.php:98
+#@ mytheme
+msgid "All Tags"
+msgstr ""
+
+#: include/album.php:101
+#@ mytheme
+msgid "Edit Tag"
+msgstr ""
+
+#: include/album.php:102
+#@ mytheme
+msgid "Update Tag"
+msgstr ""
+
+#: include/album.php:103
+#@ mytheme
+msgid "Add New Tag"
+msgstr ""
+
+#: include/album.php:104
+#@ mytheme
+msgid "New Tag Name"
+msgstr ""
+
+#: include/album.php:105
+#@ mytheme
+msgid "Separate writers with commas"
+msgstr ""
+
+#: include/album.php:106
+#@ mytheme
+msgid "Add or remove tags"
+msgstr ""
+
+#: include/album.php:107
+#@ mytheme
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:167
+#@ Kingdom
+msgid "Something went wrong."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:180
+#, php-format
+#@ Kingdom
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:517
+#: include/class-tgm-plugin-activation.php:2058
+#@ Kingdom
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:545
+#, php-format
+#@ Kingdom
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:704
+#@ Kingdom
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1091
+#@ Kingdom
+msgid "External Link"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1096
+#@ Kingdom
+msgid "Private Repository"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1099
+#@ Kingdom
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1103
+#@ Kingdom
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1106
+#@ Kingdom
+msgid "Required"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1106
+#@ Kingdom
+msgid "Recommended"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1109
+#@ Kingdom
+msgid "Not Installed"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1111
+#@ Kingdom
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ Kingdom
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1297
+#@ Kingdom
+msgid "Plugin"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1298
+#@ Kingdom
+msgid "Source"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1299
+#@ Kingdom
+msgid "Type"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1300
+#@ Kingdom
+msgid "Status"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1318
+#@ Kingdom
+msgid "Install"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1319
+#@ Kingdom
+msgid "Activate"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1544
+#@ Kingdom
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/class-tgm-plugin-activation.php:1829
+#@ Kingdom
+msgid "Install package not available."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ Kingdom
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1831
+#@ Kingdom
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1832
+#@ Kingdom
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1833
+#@ Kingdom
+msgid "Plugin install failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1834
+#@ Kingdom
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1845
+#@ Kingdom
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1955
+#@ Kingdom
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ Kingdom
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1956
+#: include/class-tgm-plugin-activation.php:1965
+#@ Kingdom
+msgid "Show Details"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1956
+#: include/class-tgm-plugin-activation.php:1965
+#@ Kingdom
+msgid "Hide Details"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1957
+#@ Kingdom
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ Kingdom
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1962
+#@ Kingdom
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ Kingdom
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ Kingdom
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ Kingdom
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1966
+#@ Kingdom
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ Kingdom
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
